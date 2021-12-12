@@ -1,6 +1,6 @@
-# aula3
+# Flutter calc
 
-A new Flutter project.
+Calculator UI
 
 ## Getting Started
 
